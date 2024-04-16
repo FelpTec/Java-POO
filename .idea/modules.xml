@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control/Control.iml" filepath="$PROJECT_DIR$/Control/Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoPOO/CursoPOO.iml" filepath="$PROJECT_DIR$/CursoPOO/CursoPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Figuras/Figuras.iml" filepath="$PROJECT_DIR$/Figuras/Figuras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcionario/Funcionario.iml" filepath="$PROJECT_DIR$/Funcionario/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pubzinha/Pubzinha.iml" filepath="$PROJECT_DIR$/Pubzinha/Pubzinha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UltimateEmojiCombat/UltimateEmojiCombat.iml" filepath="$PROJECT_DIR$/UltimateEmojiCombat/UltimateEmojiCombat.iml" />
+    </modules>
+  </component>
+</project>
