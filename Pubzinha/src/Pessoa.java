@@ -1,4 +1,4 @@
-public class zc\\Pessoa {
+public class Pessoa {
     //Atributos
     private String nome;
     private int idade;
